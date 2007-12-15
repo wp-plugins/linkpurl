@@ -9,7 +9,7 @@ There is a Firefox extension that makes use of LinkPURL which is linked from the
 
 == Downloading ==
 
-1. Grab the zip file from http://www.lackoftalent.org/michael/blog/persistent-url-bookmarker/
+1. Grab the zip file from http://downloads.wordpress.org/plugin/linkpurl.zip
 2. Check out from svn: svn co http://svn.wp-plugins.org/linkpurl/trunk linkpurl
 
 == Installation ==
