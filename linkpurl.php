@@ -4,7 +4,7 @@
 Plugin Name: LinkPURL
 Plugin URI: http://www.lackoftalent.org/michael/blog/unapi-wordpress-plug-in/
 Description: Implements unAPI 1.0 specification, providing machine-readable metadata records for posts and pages.  Hat tip: <a href="http://www.wallandbinkley.com/quaedam/" target="_blank">Peter Binkley</a> for writing the first unAPI plug-in, on which subsequent versions have been heavily based.
-Version: 0.1
+Version: 1.0
 Author: Michael J. Giarlo
 Author URI: http://purl.org/net/leftwing/blog
 
@@ -27,6 +27,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 HISTORY:
 Version: 0.1, 2007-01-17 [Michael J. Giarlo]
+Version: 1.0, 2007-12-15 [Michael J. Giarlo]
 */
 
 add_action('wp_head', 'linkpurl_link');
