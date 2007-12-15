@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: LinkPURL
-Plugin URI: http://www.lackoftalent.org/michael/blog/unapi-wordpress-plug-in/
+Plugin URI: http://www.lackoftalent.org/michael/blog/persistent-url-bookmarker/
 Description: Implements unAPI 1.0 specification, providing machine-readable metadata records for posts and pages.  Hat tip: <a href="http://www.wallandbinkley.com/quaedam/" target="_blank">Peter Binkley</a> for writing the first unAPI plug-in, on which subsequent versions have been heavily based.
 Version: 1.0
 Author: Michael J. Giarlo
