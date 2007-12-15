@@ -1,6 +1,7 @@
 === LinkPURL Header ===
 Tags: linkpurl, purl, persistent identifier, auto-discovery
 Contributors: mjgiarlo, decasm
+Stable tag: trunk
 
 Inserts a <link> tag into each WordPress post and page that enables LinkPURL auto-discovery, as described on the LinkPURL website: http://staff.oclc.org/~smithde/linkpurl/.  Enables bookmarking of persistent URLs if present in the link tag's href attribute, where the rel attribute has a value of "purl".  Note that this plugin may be used for auto-discovery of any persistent identifer scheme as long as the identifier is a URI, rather than being limited to purl-style identifiers.
 
