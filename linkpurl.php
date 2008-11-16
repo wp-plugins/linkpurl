@@ -40,7 +40,7 @@ add_option('linkpurl_partialRedirect', 'off', 'Set to on to use PURL partial red
 
 function linkpurl_link() {
 	echo "	<!-- LinkPURL -->\n";
-	$partial = ('on' == get_option('linkpurl_partialRedirect')) ? $_SERVER["REQUEST_URI"] . '';
+	$partial = ('on' == get_option('linkpurl_partialRedirect')) ? $_SERVER["REQUEST_URI"] : '';
         echo '  <link rel="purl" href="' . get_option('linkpurl_pid') . $partial . '"/>' . "\n";
 }
 
